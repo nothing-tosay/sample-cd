@@ -1,4 +1,4 @@
-FROM public.ecr.aws/f4k0r0p1/node16.14:latest
+FROM node:16
 
 WORKDIR /app
 
